@@ -1,0 +1,28 @@
+{
+    "": {
+        "301": "index.html"
+    },
+
+    "index.html": {},
+
+    /* assets */
+    "styles.css": {
+        "mode": "css",
+        "files": [
+            "less/project.less"
+        ]
+    },
+    "script.js": {
+        "mode": "js",
+        "files": [
+            "js/xtreme.js",
+            "js/*.js"
+        ]
+    },
+
+    /* Default */
+    "_default": {
+        "title": "Xtreme 3 Demo",
+        "description": "Xtreme 3 Demo Website, using XPM"
+    }
+}

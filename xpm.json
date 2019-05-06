@@ -2,6 +2,7 @@
     "name": "Xtreme3-Demo",
     "key": "1234qwer",
     "packages": [
-        "test_package"
+        "test_package",
+        "xtreme_core"
     ]
 }
