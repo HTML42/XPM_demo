@@ -11,14 +11,19 @@
     "styles.css": {
         "mode": "css",
         "files": [
-            "less/project.less"
+            "xpm/library/xtreme_core/less/x_variables.less",
+            "xpm/library/xtreme_core/less/x_basics.less",
+            "less/project.less",
+            "xpm/library/jquery/less/*.*"
         ]
     },
     "script.js": {
         "mode": "js",
         "files": [
+            "js/*.js",
             "js/xtreme.js",
-            "js/*.js"
+            "js/xlogin.js",
+            "pack.jquery"
         ]
     },
 
