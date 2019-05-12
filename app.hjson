@@ -4,6 +4,8 @@
     },
 
     "index.html": {},
+    "login.html": {},
+    "dbtest.html": {},
 
     /* assets */
     "styles.css": {

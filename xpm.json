@@ -3,6 +3,8 @@
     "key": "1234qwer",
     "packages": {
         "0": "test_package",
-        "xtreme_core": "zip::https://github.com/HTML42/XPM_plugin_Xtreme/archive/master.zip"
+        "1": "xtreme_core",
+        "2": "xtreme_db",
+        "3": "xtreme_login"
     }
 }
