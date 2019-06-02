@@ -1,3 +1,8 @@
 <?php
 
-//this file will be executed in the beginning of the framework
+//this file will be executed at the start of execute.php
+
+if (!isset($_ENV)) {
+    $_ENV = array();
+}
+#$_ENV['environment'] = 'live';
